@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- TODO 替换：把所有 <loc> 中的域名换成你的真实地址，lastmod 更新为实际日期 -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.example.com/index.html</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.example.com/services.html</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.example.com/cases.html</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.example.com/edu-ai.html</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.example.com/news.html</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.example.com/about.html</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.example.com/contact.html</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.7</priority>
+  </url>
+</urlset>

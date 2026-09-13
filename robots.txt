@@ -1,0 +1,6 @@
+# TODO 替换：把 Sitemap 地址换成你的真实域名
+User-agent: *
+Allow: /
+Disallow: /assets/js/
+
+Sitemap: https://www.example.com/sitemap.xml
